@@ -1,3 +1,6 @@
+//Base camp located at Guba Bay
+//Created by Warhorse
+
 if (isServer) then {
 
 _vehicle_24 = objNull;
